@@ -1,0 +1,21 @@
+#
+dot files
+# /.vscode/launch.json
+/.vscode/*
+/.settings
+/.eide/*
+/.eide.usr.ctx.json
+
+# project out
+/build
+/bin
+/obj
+/out
+/lib
+/hal
+# eide template
+*.ept
+*.eide-template
+
+#other
+#/data
